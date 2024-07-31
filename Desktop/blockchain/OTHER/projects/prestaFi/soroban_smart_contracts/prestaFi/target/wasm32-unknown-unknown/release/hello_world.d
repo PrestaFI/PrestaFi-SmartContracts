@@ -1,0 +1,1 @@
+/Users/kanoopz/Desktop/blockchain/OTHER/projects/prestaFi/tests/prestaFi/target/wasm32-unknown-unknown/release/hello_world.wasm: /Users/kanoopz/Desktop/blockchain/OTHER/projects/prestaFi/tests/prestaFi/contracts/prestaFi/src/lib.rs /Users/kanoopz/Desktop/blockchain/OTHER/projects/prestaFi/tests/prestaFi/contracts/prestaFi/src/test.rs
